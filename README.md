@@ -13,6 +13,10 @@ To run this project.
       yarn dev
       python server.py
 
+Download LLama - 2 Model from the below link.
+
+      https://llama.meta.com/llama-downloads/
+
 Run on local server.
 
       http://localhost:3000/
