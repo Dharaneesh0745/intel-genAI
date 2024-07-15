@@ -9,7 +9,15 @@ To personalize and enhance the capabilities of our LLM model, we engage in finet
 
 To run this project.
 
-      Run command - yarn
-                    yarn dev
-                    python server.py
+      yarn
+      yarn dev
+      python server.py
+
+Run on local server.
+
+      http://localhost:3000/
+
+Live project on the below link.
+
+      https://intel-genai.vercel.app/
                     
